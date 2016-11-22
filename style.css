@@ -21,3 +21,10 @@ div {
   margin: 50px 0 0 0;
   border-radius: 12px;
 }
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+<img src="Firehouse-2.jpg" alt="Firehouse">
