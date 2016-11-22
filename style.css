@@ -3,15 +3,15 @@ h1 {
 	font-size: 60px;
 	text-align: center;
 	margin: 60px 0 0 0;
-	color: pink;
+	color: green;
 }
 h2 {
 	font-family: 'Lora';
-	font-size: 40px;
+	font-size: 30px;
 	font-style: italic;
 	text-align: center;
 	margin: 60px 0 0 0;
-	color: pink;
+	color: green;
 }
 div {
   height: 200px;
@@ -19,7 +19,4 @@ div {
   position: relative;
   margin: 40px 0 0 0;
   border-radius: 12px;
-}
-.marilyn {
-  background: url("http://i.dailymail.co.uk/i/pix/2015/01/05/007498A200000258-0-image-a-40_1420436941542.jpg");
 }
