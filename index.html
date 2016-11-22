@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html> 
 	<head>
+	<script src="/assets/jquery.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
 	 <link href="bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet">
 	 <script src="jquery-3.1.1.min.js"></script>
@@ -31,29 +32,28 @@
 
 <div id="wrap">
     <div id="left_col">
-        Go to Firehouse
-        <img src="Firehouse.jpg">
-        <br>
-        Order a 30" Pizza at On the Waterfront
-        <img src="onthewaterfront.jpg">
-        <br>
-        Win the Vic Pub Quiz
-        <img src="thevic.jpg">
-        <br>
-        Stay til close at the Lemmy
-        <img src="lemmy.jpg">
-        <br>
-        Run Rock Solid
-        <img src="rocksolid.jpg">
-        <br>
-        Watch the Tar Barrels at Ottery St Mary
-        <img src="tarbarrels.jpg">
-        <br>
-        Watch a Varsity match
-        <img src="varsity.jpg">
+
+<div class="firehouse">
+	<p>Go to Firehouse<br>
+	<small>The inspiration behind The Leaky Cauldron in Harry Potter. Order one of their legendary dustbin-lid pizzas at 2am and wash it down with a toffee cider.</small></p>
+</div>
+<div class="waterfront">
+	<p>Order a 30" Pizza at On the Waterfront<br>
+	<small>When there are too many amazing topping combinations to choose from why not got for 3 on one pizza! Although you'll need some friends to help!</small></p>
+</div>
+<div class="vic">
+	<p>Win The Vic's Pub Quiz<br>
+	<small>Test your general knowledge in every student in Pennsylvania's favourite local pub.</small></p>
     </div>
     <div id="right_col">
     </div>
 </div>
+
+
+<script>
+  $('div').on('click', function() {
+    $(this).toggleClass('show-description');
+    });
+  </script>
 
 </html>
