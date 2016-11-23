@@ -14,6 +14,20 @@ h2 {
 	margin: 20px 0 0 0;
 	color: green;
 }
+#wrap {
+   width:800px;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:400px;
+}
+#right_col {
+   float:right;
+   width:400px;
+   align-content: center;
+   text-align: center;
+}
 div {
   height: 200px;
   background-size: cover;
