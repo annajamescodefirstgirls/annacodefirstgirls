@@ -26,7 +26,6 @@ h2 {
    float:right;
    width:400px;
    align-content: center;
-   text-align: center;
 }
 div {
   height: 200px;
@@ -77,6 +76,27 @@ small {
 }
 .vic{
 	background-image: url("http://www.exeterpubs.co.uk/wp-content/uploads/2016/03/Victoria_Inn_00.jpg");
+}
+.rocksolid{
+	background-image: url("https://www.mudstacle.com/wp-content/uploads/2013/03/602028_620786924598584_1989183685_n1.jpg");
+}
+.hitchhike{
+	background-image: url("https://i.ytimg.com/vi/ioPlY2th5y0/maxresdefault.jpg");
+}
+.ottery{
+	background-image: url("https://d.ibtimes.co.uk/en/full/426635/tar-barrels.jpg");
+}
+.lemmy{
+	background-image: url("https://www.exeterguild.org/pageassets/gallery/LemmyGallery01_003.jpg");
+}
+.exmouth{
+	background-image: url("http://www.bishopsmoveexeter.co.uk/images/sidmouth-storage.png");
+}
+.scones{
+	background-image: url("https://c1.staticflickr.com/9/8605/16038065865_2437472b95_b.jpg");
+}
+.pedalo{
+	background-image: url("http://www.mataskham.co.uk/img/quay1.jpg");
 }
 @media (max-width: 500px) {
   h1 {
