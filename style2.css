@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
 align-content: center;
 background: url('grag.jpg') no-repeat center center fixed;
@@ -10,14 +9,10 @@ background-size: cover;
 
 div {
     margin: auto;
-    width: 15%;
-    padding: 10px;
+    width: 20%;
+    padding: 40px;
 }
-=======
-body { 
-    background-image: url('grag.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center; 
+
+.btn {
+	font-size: 30px;
 }
->>>>>>> origin/master
