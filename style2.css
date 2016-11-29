@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 align-content: center;
 background: url('grag.jpg') no-repeat center center fixed;
@@ -12,3 +13,11 @@ div {
     width: 15%;
     padding: 10px;
 }
+=======
+body { 
+    background-image: url('grag.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+>>>>>>> origin/master
