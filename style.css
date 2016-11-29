@@ -28,6 +28,9 @@ h2 {
    align-content: center;
    line-height: 250px;
 }
+#submit {
+	line-height: 30px;
+}
 div {
   height: 200px;
   background-size: cover;
