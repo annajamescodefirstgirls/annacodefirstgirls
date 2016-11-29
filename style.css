@@ -113,6 +113,10 @@ small {
 .graduate{
 	background-image: url("http://www.exeter.ac.uk/media/universityofexeter/graduation/graduationresponsive/resizedimages/hatthrowing2.jpg");
 }
+.right_col{
+	color: white;
+}
+}
 @media (max-width: 500px) {
   h1 {
     font-size: 50px;
