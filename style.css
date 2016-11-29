@@ -14,6 +14,13 @@ h2 {
 	margin: 20px 0 0 0;
 	color: green;
 }
+a {
+	font-family: 'Lora';
+	font-size: 15px;
+	font-style: italic;
+	text-align: center;
+	color: green;
+}
 #wrap {
    width:800px;
    margin:0 auto;
