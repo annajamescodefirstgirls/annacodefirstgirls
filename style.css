@@ -24,8 +24,9 @@ h2 {
 }
 #right_col {
    float:right;
-   width:400px;
+   width:300px;
    align-content: center;
+   line-height: 250px;
 }
 div {
   height: 200px;
