@@ -1,3 +1,6 @@
-body{
-align-content: center;
+body { 
+    background-image: url('grag.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
