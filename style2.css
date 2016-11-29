@@ -1,3 +1,14 @@
 body{
 align-content: center;
+background: url('grag.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+div {
+    margin: auto;
+    width: 15%;
+    padding: 10px;
 }
